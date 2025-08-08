@@ -1,1 +1,1 @@
-hello
+A quick simple tool to help lazy people like myself analyze the markets and play with paper accounts
